@@ -1,0 +1,39 @@
+h1,p,button {
+    text-align: center;
+}
+
+body{
+    background-color: peachpuff;
+}
+
+button{
+    margin: 0% 0% 0% 45%;
+}
+
+h1{
+    font-family: 'DynaPuff', cursive;
+    font-size: 70px;
+}
+
+p{
+    font-family: 'Amatic SC', cursive;
+    font-style: italic;
+    font-weight: 400;
+    font-size: 40px;
+    padding-inline-start: 10px;
+}
+
+.dicerow{
+    margin-left: 10%;
+    padding-left: 13%;
+
+}
+
+.numb{
+    padding-left: 90px;
+    font-size: 31px;
+}
+
+#first,#second,#third{
+    visibility: hidden;
+}
